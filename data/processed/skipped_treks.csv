@@ -1,0 +1,13 @@
+trek_id,trek_name,category,starting_point,start_lat,start_lon,start_elevation,ending_point,end_lat,end_lon,end_elevation,distance_km,duration_days,difficulty,best_season,approx_cost
+55,Panpatia Col Approach,Moderate,Ransi,30.6015,79.1601,1950.0,Base Camp,,,4200.0,38,5–6,Difficult,May–Sep,"₹12,000–₹16,000"
+78,Nanda Kot Base Camp,Difficult,Gogina,30.0538,80.0016,2000.0,Nanda Kot BC,,,4100.0,55,8–9,Difficult,May–Oct,"₹15,000–₹22,000"
+83,Paniya Top,Hidden/Lesser-known,needs_verification,,,,Paniya Top,,,,needs_verification,4–6,Moderate,May–Oct,needs_verification
+84,Ranthan Kharak,Hidden/Lesser-known,Gogina,30.0538,80.0016,2000.0,Ranthan Top,,,3900.0,38,6–7,Moderate-Difficult,May–Oct,"₹10,500–₹12,500"
+85,Bhuki–Khodatal,Hidden/Lesser-known,Bhuki,30.8711,78.6816,2200.0,Khodatal,,,3800.0,45,6–8,Difficult,May–Oct,"₹14,000–₹18,000"
+86,Dharali–Saptal,Hidden/Lesser-known,Dharali,31.0402,78.7909,2680.0,Saptal,,,4300.0,40,6–7,Difficult,May–Oct,"₹14,000–₹19,000"
+87,Purali–Brahmital,Hidden/Lesser-known,Purali,30.9166,78.65,2100.0,Brahmital,,,3500.0,30,5–6,Moderate,May–Oct,"₹10,000–₹15,000"
+88,Saptal,Hidden/Lesser-known,Dharali,31.0402,78.7909,2680.0,Saptal,,,4300.0,40,6–7,Difficult,May–Oct,"₹14,000–₹19,000"
+90,Harshil–Kyarkoti,Hidden/Lesser-known,Harshil,31.0385,78.7514,2745.0,Kyarkoti,,,3500.0,28,5–6,Difficult,May–Oct,"₹12,000–₹16,000"
+91,Nelang Valley Trail,Hidden/Lesser-known,Bhaironghati,31.0333,78.8666,2750.0,Nelang,,,3150.0,25,2–4,Moderate,May–Oct,"₹5,000–₹10,000"
+92,Jadung Valley,Hidden/Lesser-known,Nelang,,,3150.0,Jadung,,,3800.0,30,3–5,Moderate,May–Oct,"₹8,000–₹12,000"
+98,Kafni–Pindari Circuit,Hidden/Lesser-known,Khati,30.1065,79.9405,2210.0,Pindari/Kafni Divide,,,3860.0,70,8–10,Difficult,May–Oct,"₹16,000–₹22,000"

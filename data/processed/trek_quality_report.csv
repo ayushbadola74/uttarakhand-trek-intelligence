@@ -1,0 +1,7 @@
+check,column,total_records,missing_records,status
+Missing values,start_lat,100,2,FAIL
+Missing values,start_lon,100,2,FAIL
+Missing values,start_elevation,100,1,FAIL
+Missing values,end_lat,100,12,FAIL
+Missing values,end_lon,100,12,FAIL
+Missing values,end_elevation,100,1,FAIL
