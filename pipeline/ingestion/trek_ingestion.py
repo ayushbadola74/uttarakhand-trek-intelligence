@@ -3,9 +3,8 @@ from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
-INPUT_FILE = PROJECT_ROOT / "data" / "treks.csv"
-PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
-
+INPUT_FILE = PROJECT_ROOT / "pipeline" / "data" / "treks.csv"
+PROCESSED_DIR = PROJECT_ROOT / "pipeline" / "data" / "processed"
 PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
 REQUIRED_COLUMNS = [
