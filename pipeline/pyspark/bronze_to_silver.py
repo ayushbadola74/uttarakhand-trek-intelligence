@@ -25,9 +25,8 @@ print("=" * 70)
 # 2. Paths
 # ---------------------------------------------------------
 
-INPUT_PATH = "data/treks.csv"
-OUTPUT_PATH = "data/processed/treks_silver"
-
+INPUT_PATH = "pipeline/data/treks.csv"
+OUTPUT_PATH = "pipeline/data/processed/treks_silver"
 
 # ---------------------------------------------------------
 # 3. Read Bronze / Raw data

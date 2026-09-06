@@ -8,4 +8,4 @@ RUN pip3 install --no-cache-dir pyspark==4.2.0
 
 COPY . /app
 
-CMD ["python3", "data-engineering/pyspark/bronze_to_silver.py"]
+CMD ["python3", "pipeline/pyspark/bronze_to_silver.py"]
