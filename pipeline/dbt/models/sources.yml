@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: trek_analytics
+    database: UTTARAKHAND_TREK_DB
+    schema: TREK_ANALYTICS
+    tables:
+      - name: TREKS_GOLD
+      - name: WEATHER_GOLD

@@ -1,0 +1,51 @@
+{
+    "path_count": 161,
+    "parsed_path_count": 161,
+    "static_analysis_path_count": 4,
+    "static_analysis_parsed_path_count": 4,
+    "is_partial_parse_enabled": true,
+    "is_static_analysis_enabled": true,
+    "read_files_elapsed": 0.04262720001861453,
+    "load_macros_elapsed": 0.5842418000102043,
+    "parse_project_elapsed": 0.3237192000087816,
+    "patch_sources_elapsed": 0.018535200011683628,
+    "process_manifest_elapsed": 0.02576240000780672,
+    "load_all_elapsed": 1.0533066999923903,
+    "projects": [
+        {
+            "project_name": "uttarakhand_trek",
+            "elapsed": 0.32163479999871925,
+            "parsers": [
+                {
+                    "parser": "model",
+                    "elapsed": 0.23928300000261515,
+                    "parsed_path_count": 4
+                },
+                {
+                    "parser": "test",
+                    "elapsed": 0.08077619998948649,
+                    "parsed_path_count": 1
+                }
+            ],
+            "parsed_path_count": 5
+        },
+        {
+            "project_name": "dbt_snowflake",
+            "elapsed": 0.0009406000026501715,
+            "parsers": [],
+            "parsed_path_count": 0
+        },
+        {
+            "project_name": "dbt",
+            "elapsed": 0.0010352999961469322,
+            "parsers": [
+                {
+                    "parser": "doc",
+                    "elapsed": 0.0001632999919820577,
+                    "parsed_path_count": 1
+                }
+            ],
+            "parsed_path_count": 1
+        }
+    ]
+}

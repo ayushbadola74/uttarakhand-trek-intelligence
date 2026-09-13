@@ -1,0 +1,21 @@
+name: 'uttarakhand_trek'
+version: '1.0.0'
+config-version: 2
+
+profile: 'uttarakhand_trek'
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+
+models:
+  uttarakhand_trek:
+    staging:
+      +materialized: view
+
+    intermediate:
+      +materialized: view
+
+    marts:
+      +materialized: table

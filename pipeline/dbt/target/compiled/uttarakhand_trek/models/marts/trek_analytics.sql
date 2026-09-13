@@ -1,0 +1,4 @@
+
+
+SELECT *
+FROM UTTARAKHAND_TREK_DB.TREK_ANALYTICS.int_trek_weather
