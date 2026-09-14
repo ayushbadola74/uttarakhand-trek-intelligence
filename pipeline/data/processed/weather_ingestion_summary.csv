@@ -1,0 +1,89 @@
+trek_id,trek_name,latitude,longitude,status,weather_file
+1,Nag Tibba,30.5822,78.0261,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_1_weather.json
+2,Benog Tibba,30.4578,77.9945,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_2_weather.json
+3,George Everest,30.4534,78.021,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_3_weather.json
+4,Landour–Lal Tibba,30.4618,78.0983,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_4_weather.json
+5,Deoriatal,30.495,79.1245,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_5_weather.json
+6,Deoriatal–Chandrashila,30.495,79.1245,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_6_weather.json
+7,Tungnath,30.4851,79.1765,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_7_weather.json
+8,Auli–Gorson Bugyal,30.5312,79.5658,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_8_weather.json
+9,Kunjkharak,29.4187,79.4185,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_9_weather.json
+10,Pangot–Kilbury,29.4187,79.4185,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_10_weather.json
+11,Naina Peak,29.3934,79.4513,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_11_weather.json
+12,Snow View–Land's End,29.3934,79.4513,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_12_weather.json
+13,Khurpatal,29.3934,79.4513,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_13_weather.json
+14,Binsar Zero Point,29.7042,79.7431,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_14_weather.json
+15,Kasar Devi–Binsar Trail,29.6375,79.6335,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_15_weather.json
+16,Jageshwar–Vriddha Jageshwar,29.6372,79.854,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_16_weather.json
+17,Mukteshwar Trail,29.4727,79.6465,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_17_weather.json
+18,Chaubatia,29.6425,79.4318,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_18_weather.json
+19,Majhkhali Trail,29.6425,79.4318,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_19_weather.json
+20,Kanatal Forest Trek,30.4075,78.3475,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_20_weather.json
+21,Dhanaulti Eco Park Trails,30.4217,78.2384,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_21_weather.json
+22,Surkanda Devi,30.4093,78.2831,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_22_weather.json
+23,Nag Devta Trail,30.4598,78.0664,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_23_weather.json
+24,Jabarkhet Nature Reserve,30.4571,78.1066,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_24_weather.json
+25,Valley View–Lansdowne Trails,29.8377,78.6871,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_25_weather.json
+26,Kedarkantha,31.0792,78.1764,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_26_weather.json
+27,Dayara Bugyal,30.7938,78.6015,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_27_weather.json
+28,Har Ki Dun,31.0792,78.1764,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_28_weather.json
+29,Brahmatal,30.1558,79.5786,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_29_weather.json
+30,Kuari Pass,30.505,79.593,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_30_weather.json
+31,Ali Bedni Bugyal,30.1558,79.5786,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_31_weather.json
+32,Phulara Ridge,31.0792,78.1764,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_32_weather.json
+33,Valley of Flowers,30.6247,79.5539,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_33_weather.json
+34,Pindari Glacier,30.1065,79.9405,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_34_weather.json
+35,Kafni Glacier,30.1065,79.9405,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_35_weather.json
+36,Dodital,30.7836,78.4357,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_36_weather.json
+37,Dodital–Darwa Pass,30.7836,78.4357,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_37_weather.json
+38,Pangarchulla,30.505,79.593,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_38_weather.json
+39,Nag Tibba–Thatyur,30.5822,78.0261,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_39_weather.json
+40,Kedarnath–Vasuki Tal,30.6527,79.0267,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_40_weather.json
+41,Madhyamaheshwar,30.6015,79.1601,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_41_weather.json
+42,Kalpeshwar–Rudranath,30.5281,79.4972,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_42_weather.json
+43,Rudranath,30.4502,79.2965,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_43_weather.json
+44,Tungnath–Chandrashila,30.4851,79.1765,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_44_weather.json
+45,Deoriatal–Bisuri Tal,30.495,79.1245,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_45_weather.json
+46,Kartik Swami,30.3425,79.1416,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_46_weather.json
+47,Chandrashila–Tungnath Extended,30.4851,79.1765,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_47_weather.json
+48,Surya Top,30.7938,78.6015,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_48_weather.json
+49,Dayara–Bakaria Top,30.7938,78.6015,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_49_weather.json
+50,Bedni–Wan,30.1558,79.5786,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_50_weather.json
+51,Rupin Pass,31.1167,78.0833,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_51_weather.json
+52,Bali Pass,31.0792,78.1764,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_52_weather.json
+53,Ruinsara Tal,31.0792,78.1764,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_53_weather.json
+54,Har Ki Dun–Ruinsara,31.0792,78.1764,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_54_weather.json
+56,Satopanth Lake,30.7722,79.4955,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_56_weather.json
+57,Vasuki Tal,30.6527,79.0267,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_57_weather.json
+58,Gaumukh,30.9947,78.9398,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_58_weather.json
+59,Tapovan,30.9947,78.9398,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_59_weather.json
+60,Gaumukh–Tapovan,30.9947,78.9398,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_60_weather.json
+61,Roopkund,30.1558,79.5786,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_61_weather.json
+62,Nanda Devi Base Camp,30.0766,80.2415,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_62_weather.json
+63,Milam Glacier,30.0766,80.2415,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_63_weather.json
+64,Ralam Glacier,30.0766,80.2415,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_64_weather.json
+65,Sunderdhunga Glacier,30.1065,79.9405,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_65_weather.json
+66,Kedar Tal,30.9947,78.9398,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_66_weather.json
+67,Kalindi Khal,30.9947,78.9398,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_67_weather.json
+68,Auden's Col,30.9947,78.9398,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_68_weather.json
+69,Bhagirathi Parvat Approach,30.9947,78.9398,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_69_weather.json
+70,Gangotri–Kedarnath Traverse,30.9947,78.9398,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_70_weather.json
+71,Panpatia Col,30.7447,79.4914,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_71_weather.json
+72,Mana Pass,30.7722,79.4955,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_72_weather.json
+73,Sinla Pass,29.8525,80.5283,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_73_weather.json
+74,Adi Kailash,29.8525,80.5283,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_74_weather.json
+75,Om Parvat,29.8525,80.5283,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_75_weather.json
+76,Adi Kailash–Om Parvat Circuit,29.8525,80.5283,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_76_weather.json
+77,Chiplakot,29.9322,80.5986,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_77_weather.json
+79,Panchachuli Base Camp,29.8525,80.5283,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_79_weather.json
+80,Kalpeshwar–Rudranath–Madhyamaheshwar,30.5281,79.4972,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_80_weather.json
+81,Deoban,30.7016,77.8696,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_81_weather.json
+82,Gidara Bugyal,30.8402,78.6875,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_82_weather.json
+89,Har Ki Dun–Maninda Tal,31.0792,78.1764,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_89_weather.json
+93,Malla–Kush Kalyan,30.6111,78.7216,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_93_weather.json
+94,Panwali Kantha,30.4166,78.65,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_94_weather.json
+95,Sahastratal,30.6111,78.7216,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_95_weather.json
+96,Kush Kalyan Bugyal,30.6111,78.7216,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_96_weather.json
+97,Dayara–Gidara Traverse,30.7938,78.6015,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_97_weather.json
+99,Namik Glacier,30.0538,80.0016,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_99_weather.json
+100,Ralam–Milam Circuit,30.0766,80.2415,SUCCESS,C:\7thsem\uttarakhand-trek-intelligence\pipeline\data\raw\weather\trek_100_weather.json

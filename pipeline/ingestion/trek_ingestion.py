@@ -207,6 +207,32 @@ else:
 
 
 # ============================================================
+# SPLIT VALID AND SKIPPED TREKS
+# ============================================================
+
+location_columns = [
+    "start_lat",
+    "start_lon",
+    "end_lat",
+    "end_lon"
+]
+
+valid_location_mask = df[location_columns].notna().all(axis=1)
+
+valid_treks = df[valid_location_mask].copy()
+skipped_treks = df[~valid_location_mask].copy()
+
+valid_file = PROCESSED_DIR / "valid_treks.csv"
+skipped_file = PROCESSED_DIR / "skipped_treks.csv"
+
+valid_treks.to_csv(valid_file, index=False)
+skipped_treks.to_csv(skipped_file, index=False)
+
+print(f"\nValid treks:   {len(valid_treks)}")
+print(f"Skipped treks: {len(skipped_treks)}")
+
+
+# ============================================================
 # IDENTIFY VALID AND SKIPPED TREKS
 # ============================================================
 
