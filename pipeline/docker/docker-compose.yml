@@ -39,6 +39,7 @@ services:
       - ../airflow/dags:/opt/airflow/dags
       - ../airflow/logs:/opt/airflow/logs
       - ../airflow/plugins:/opt/airflow/plugins
+      - ..:/opt/airflow/pipeline
 
 
   airflow-dag-processor:
@@ -58,6 +59,7 @@ services:
       - ../airflow/dags:/opt/airflow/dags
       - ../airflow/logs:/opt/airflow/logs
       - ../airflow/plugins:/opt/airflow/plugins
+      - ..:/opt/airflow/pipeline
 
 
   airflow-webserver:
@@ -81,6 +83,7 @@ services:
       - ../airflow/dags:/opt/airflow/dags
       - ../airflow/logs:/opt/airflow/logs
       - ../airflow/plugins:/opt/airflow/plugins
+      - ..:/opt/airflow/pipeline
 
 
   airflow-scheduler:
@@ -100,6 +103,7 @@ services:
       - ../airflow/dags:/opt/airflow/dags
       - ../airflow/logs:/opt/airflow/logs
       - ../airflow/plugins:/opt/airflow/plugins
+      - ..:/opt/airflow/pipeline
 
 
 volumes:
